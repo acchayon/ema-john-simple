@@ -9,3 +9,13 @@
     gap: 30px;
     margin: 50px;
 }
+.review-order{
+    background: #FF9900;
+    border-radius: 4px;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
+}
+}
